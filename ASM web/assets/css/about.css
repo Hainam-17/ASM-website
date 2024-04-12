@@ -1,0 +1,20 @@
+.about-content {
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: 500;
+}
+
+.card-about {
+    background-color: #f9f9f9; /* Màu nền của thẻ card */
+    padding: 20px; /* Khoảng cách bên trong thẻ card */
+    border-radius: 10px; /* Đường viền cong cho thẻ card */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Hiệu ứng bóng cho thẻ card */
+}
+
+.about-content {
+    text-align: justify; /* Căn chỉnh văn bản theo chiều ngang */
+}
+
+.about-content p {
+    margin-bottom: 10px; /* Khoảng cách dưới của mỗi đoạn văn */
+}
